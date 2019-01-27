@@ -8,5 +8,8 @@ Image Compression - Notebook file to demonstrate the compression
 compressed - Compressed version of the images  
 new_images - Restored images after compression  
 
-Originial images:
-![alt text](https://drive.google.com/open?id=1JgRGAzcskLHGGS9kKJov505BQHTnelP1)
+![Original Images](original.png)
+
+![Eigen Faces](eigenfaces.png)
+
+![Reconstructed Images](reconstructed.png)
