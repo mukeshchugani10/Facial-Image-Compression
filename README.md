@@ -8,8 +8,11 @@ Image Compression - Notebook file to demonstrate the compression
 compressed - Compressed version of the images  
 new_images - Restored images after compression  
 
+Original images:
 ![Original Images](original.png)
 
+Eigen Faces:
 ![Eigen Faces](eigenfaces.png)
 
+Reconstructed images:
 ![Reconstructed Images](reconstructed.png)
